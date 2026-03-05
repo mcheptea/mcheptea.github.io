@@ -129,7 +129,7 @@ Responsibilities include:
 
 Typical technologies used in modern platform development:
 
-- Backend: Node.js / Python / Go
+- Backend: Java / Kotlin / PHP / Python / Go
 - Databases: PostgreSQL, Redis
 - Infrastructure: Docker, Kubernetes, Cloud Platforms
 - APIs: REST / GraphQL
